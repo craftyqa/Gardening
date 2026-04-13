@@ -307,10 +307,10 @@ Test all 3 states:
 | Layer | Technology |
 |---|---|
 | Frontend | React + TypeScript |
-| Backend | Node.js + Express |
-| Unit tests | Jest |
-| API tests | Supertest |
-| UI tests | Cypress or Playwright |
+| Backend | Python + FastAPI |
+| Unit tests | pytest |
+| API tests | pytest + httpx |
+| UI tests | Playwright (Python) |
 
 ---
 
